@@ -1,1 +1,10 @@
-name, date, description
+name: Shandeepa Wickramasinghe
+date: 03/02/15
+description:
+My 3d object is a light green color Cube which contains Pyramids in four faces. 
+If you click the left arrow key  the object will rotate in counterclockwise through y axis and right arrow key will rotate clockwise through the same direction. 
+Similarly if you hit the up arrow key the object will rotate counterclockwise through x axis and down arrow key will rotate clockwise through the same direction.
+event.keycode==37 is used to handle the LEFT arrow key.
+event.keycode==38 is used to handle the UP arrow key. 
+event.keycode==39 is used to handle the RIGHT arrow key.
+event.keycode==40 is used to handle the DOWN arrow key.
